@@ -1,0 +1,4 @@
+# Cabal
+.cabal-sandbox
+dist
+
